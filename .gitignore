@@ -208,3 +208,16 @@ __marimo__/
 
 # Dependencies (for Mac)
 deps/
+
+# macOS
+.DS_Store
+
+# uv cache
+.uv-cache/
+
+# Session state (user-local, regenerated at runtime)
+.mouth_track_last_session.json
+.multi_video_live_session.json
+
+# Generated output: extracted mouth sprites
+mouth_dir/
